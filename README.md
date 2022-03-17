@@ -1,0 +1,1 @@
+To run this project simply type "make" into command line and the executable is "./A4". This project demestrates functionality of the queue functions and linked list. The testA4.c shows how I was able to test the program in its entirety.
